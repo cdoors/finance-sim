@@ -1,0 +1,9 @@
+account_nickname: Chad 
+current_balance: 0
+target_balance: 2000.00
+categories:
+  - Revenue       # Income categories must include "Revenue" or end with "Income"
+  - Fixed         # Expense categories (negative amounts in ledger)
+  - Variable      # Expense categories (negative amounts in ledger)
+  - Misc Income   # Additional income category
+  - Misc Expense  # Additional expense category

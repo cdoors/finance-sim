@@ -1,0 +1,3 @@
+date,amount,description,category,forecast
+2023-01-01,-100.00,Rent,Fixed,0
+2023-01-05,2000.00,Paycheck,Revenue,0

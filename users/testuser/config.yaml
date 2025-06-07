@@ -1,0 +1,9 @@
+account_nickname: Test Account
+categories:
+- Revenue
+- Fixed
+- Variable
+- Misc Income
+- Misc Expense
+current_balance: 1000.0
+target_balance: 500.0

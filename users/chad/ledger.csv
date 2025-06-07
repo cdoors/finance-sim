@@ -1,0 +1,4 @@
+date,amount,description,category,forecast
+2025-06-01,-2000.00,Rent,Fixed,1
+2025-06-15,20000.00,Paycheck,Revenue,1
+2025-06-30,-16000,Investment,Investment,1
